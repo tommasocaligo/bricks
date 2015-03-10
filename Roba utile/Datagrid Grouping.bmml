@@ -1,0 +1,79 @@
+<mockup version="1.0" skin="sketch" measuredW="562" measuredH="533" mockupW="533" mockupH="501">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="29" y="32" w="533" h="501" measuredW="533" measuredH="501" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>datagrid%20grouping</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="533" h="501" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <text>*Restaurants*</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="7" y="38" w="520" h="417" measuredW="277" measuredH="415" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Name%2C%20Cuisine%20%5E%0A%20%20%20%20*%5BCuisine%3A%20American%20%289items%29%5D*%0ACheesecake%20Factory%2C%20American%0ACremery%2C%20American%0ACrepevine%2C%20American%0AGordon%20Biersch%2C%20American%0AMacArthur%20Park%2C%20American%0AOld%20Pro%2C%20American%0AShokolaat%2C%20American%0ASlider%20Bar%2C%20American%0AUniversity%20Cafe%2C%20American%0A%20%20%20%20*%5BCuisine%3A%20Asian%20%281%20items%29%5D*%20%0AMadam%20Tam%2C%20Asian%0A%20%20%20%20*%5BCuisine%3A%20Bagels%20%281%20items%29%5D*</text>
+            <verticalScrollbar>true</verticalScrollbar>
+            <vLines>false</vLines>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="13" y="64" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <icon>SquaredMinusIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="13" y="364" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <icon>SquaredMinusIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="13" y="424" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <icon>SquaredMinusIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="509" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="0">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>UpFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="__group__" x="404" y="459" w="123" h="33" measuredW="123" measuredH="33" zOrder="6" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="123" h="33" measuredW="103" measuredH="27" zOrder="0" locked="false" isInGroup="6">
+              <controlProperties>
+                <align>right</align>
+                <rotation>180</rotation>
+                <size>12</size>
+                <text>Clear%20Grouping</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="13" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <icon>UpFillTriangleIcon%7Cxsmall</icon>
+                <rotation>90</rotation>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::HRule" x="9" y="87" w="500" h="-1" measuredW="100" measuredH="5" zOrder="7" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="9" y="387" w="500" h="-1" measuredW="100" measuredH="5" zOrder="8" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::HRule" x="9" y="447" w="500" h="-1" measuredW="100" measuredH="5" zOrder="9" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
