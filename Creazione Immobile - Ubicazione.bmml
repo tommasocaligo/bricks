@@ -1,0 +1,197 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1280" measuredH="720" mockupW="1280" mockupH="720">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1280" h="720" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Brick%0Ahttp%3A//brick.io</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Accordion" x="0" y="75" w="260" h="616" measuredW="150" measuredH="240" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Immobili%0A-%20Ricerca%20%0A-%20Creazione%20scheda%0ABroker%0A-%20Ricerca%0A-%20Aggiunta%20anagrafica%0A-%20Crea%20Sub-Incarico%0AClienti%0A-%20Ricerca%0A-%20Aggiunta%20anagrafica%0AUtenti%0A-%20Ricerca%0A-%20Aggiunta%20anagrafica</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Title" x="290" y="85" w="367" h="-1" measuredW="284" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nuovo%20Immobile</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::TabBar" x="274" y="135" w="991" h="547" measuredW="523" measuredH="100" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Creazione%20Immobile%20-%20Dati%20catastali%26bm%3BCreazione%20Immobile%20-%20Dati%20catastali.bmml%26bm%3BCreazione%20Immobile%20-%20Dati%20catastali.bmml%26bm%3BCreazione%20Immobile%20-%20Dati%20catastali.bmml%2C%2CCreazione%20Immobile%20-%20Descrizione%26bm%3BCreazione%20Immobile%20-%20Descrizione.bmml%26bm%3BCreazione%20Immobile%20-%20Descrizione.bmml%26bm%3BCreazione%20Immobile%20-%20Descrizione.bmml%2CCreazione%20Immobile%20-%20Data%20room%26bm%3BCreazione%20Immobile%20-%20Data%20room.bmml%26bm%3BCreazione%20Immobile%20-%20Data%20room.bmml%26bm%3BCreazione%20Immobile%20-%20Data%20room.bmml%2CCreazione%20Immobile%20-%20Elenco%20Attivita%u0300%26bm%3BCreazione%20Immobile%20-%20Elenco%20Attivita%u0300.bmml%26bm%3BCreazione%20Immobile%20-%20Elenco%20Attivita%u0300.bmml%26bm%3BCreazione%20Immobile%20-%20Elenco%20Attivita%u0300.bmml%2CCreazione%20Immobile%20-%20Valutazione%26bm%3BCreazione%20Immobile%20-%20Valutazione.bmml%26bm%3BCreazione%20Immobile%20-%20Valutazione.bmml%26bm%3BCreazione%20Immobile%20-%20Valutazione.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22294%2C135%2C384%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Dati%2520catastali.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Dati%20catastali%22%20id%3D%2265%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22462%2C135%2C544%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Descrizione.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Descrizione%22%20id%3D%2265%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22544%2C135%2C617%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Data%2520room.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Data%20room%22%20id%3D%2265%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22617%2C135%2C714%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Elenco%2520Attivita%25CC%2580.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Elenco%20Attivita%u0300%22%20id%3D%2265%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22714%2C135%2C795%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Valutazione.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Valutazione%22%20id%3D%2265%22/%3E</map>
+        <selectedIndex>1</selectedIndex>
+        <text>Dati%20catastali%2C%20Ubicazione%2C%20Descrizione%2C%20Data%20room%2C%20Elenco%20attivit%E0%2C%20Valutazione</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Label" x="290" y="191" w="158" h="-1" measuredW="53" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Regione%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Label" x="290" y="231" w="158" h="-1" measuredW="60" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Provincia%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Label" x="290" y="272" w="158" h="-1" measuredW="35" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Citt%E0%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="290" y="312" w="158" h="-1" measuredW="23" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Via%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Label" x="290" y="352" w="158" h="-1" measuredW="30" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>CAP%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Map" x="862" y="211" w="375" h="263" measuredW="252" measuredH="222" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Label" x="862" y="183" w="158" h="-1" measuredW="44" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Mappa%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::IconLabel" x="478" y="191" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PencilIcon%7Cxsmall</icon>
+        <labelPosition>left</labelPosition>
+        <text>...</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::IconLabel" x="478" y="272" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PencilIcon%7Cxsmall</icon>
+        <labelPosition>left</labelPosition>
+        <text>...</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::IconLabel" x="478" y="312" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PencilIcon%7Cxsmall</icon>
+        <labelPosition>left</labelPosition>
+        <text>...</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::IconLabel" x="478" y="350" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PencilIcon%7Cxsmall</icon>
+        <labelPosition>left</labelPosition>
+        <text>...</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="__group__" x="834" y="212" w="27" h="262" measuredW="27" measuredH="262" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Map%20Zoom%20Bar</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="8" y="24" w="11" h="211" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="117">
+          <controlProperties>
+            <markup>false</markup>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="2" y="227" w="25" h="35" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="117">
+          <controlProperties>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <text>-</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="75" w="25" h="17" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="117">
+          <controlProperties>
+            <markup>false</markup>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="25" h="35" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="117">
+          <controlProperties>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <text>+</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="118" controlTypeID="__group__" x="862" y="474" w="176" h="37" measuredW="176" measuredH="37" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Google%20Scale%20Bar</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::VRule" x="1" y="6" w="-1" h="26" measuredW="10" measuredH="100" zOrder="0" locked="false" isInGroup="118"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="17" w="170" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="118"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::VRule" x="166" y="8" w="-1" h="13" measuredW="10" measuredH="100" zOrder="2" locked="false" isInGroup="118"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::VRule" x="115" y="22" w="-1" h="11" measuredW="10" measuredH="100" zOrder="3" locked="false" isInGroup="118"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="14" y="17" w="48" h="-1" measuredW="28" measuredH="20" zOrder="4" locked="false" isInGroup="118">
+          <controlProperties>
+            <size>12</size>
+            <text>2%20km</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="14" y="0" w="42" h="-1" measuredW="24" measuredH="20" zOrder="5" locked="false" isInGroup="118">
+          <controlProperties>
+            <size>12</size>
+            <text>2%20mi</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="119" controlTypeID="__group__" x="1015" y="249" w="23" h="38" measuredW="23" measuredH="38" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Map%20Pin</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="2" y="0" w="20" h="38" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="119">
+          <controlProperties>
+            <color>0</color>
+            <markup>false</markup>
+            <shape>diamond</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="1" w="23" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="119">
+          <controlProperties>
+            <color>0</color>
+            <markup>false</markup>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="6" y="6" w="12" h="12" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="119">
+          <controlProperties>
+            <markup>false</markup>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Button" x="1030" y="647" w="226" h="27" measuredW="115" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <href>Creazione%20Immobile%20-%20Descrizione%26bm%3BCreazione%20Immobile%20-%20Descrizione.bmml%26bm%3BCreazione%20Immobile%20-%20Descrizione.bmml%26bm%3BCreazione%20Immobile%20-%20Descrizione.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221030%2C647%2C1256%2C674%22%20href%3D%22Creazione%2520Immobile%2520-%2520Descrizione.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Descrizione%22%20id%3D%22120%22/%3E</map>
+        <state>up</state>
+        <text>Salva%20e%20Procedi</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::ProgressBar" x="1144" y="96" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <indeterminate>false</indeterminate>
+        <scrollBarValue>25</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::ComboBox" x="478" y="229" w="-1" h="-1" measuredW="47" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20%20%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

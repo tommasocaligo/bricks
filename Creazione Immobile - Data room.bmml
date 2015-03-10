@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1280" measuredH="720" mockupW="1280" mockupH="720">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1280" h="720" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Brick%0Ahttp%3A//brick.io</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Accordion" x="0" y="75" w="260" h="616" measuredW="150" measuredH="240" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Immobili%0A-%20Ricerca%20%0A-%20Creazione%20scheda%0ABroker%0A-%20Ricerca%0A-%20Aggiunta%20anagrafica%0A-%20Crea%20Sub-Incarico%0AClienti%0A-%20Ricerca%0A-%20Aggiunta%20anagrafica%0AUtenti%0A-%20Ricerca%0A-%20Aggiunta%20anagrafica</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::TabBar" x="274" y="135" w="991" h="547" measuredW="523" measuredH="100" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Creazione%20Immobile%20-%20Dati%20catastali%26bm%3BCreazione%20Immobile%20-%20Dati%20catastali.bmml%26bm%3BCreazione%20Immobile%20-%20Dati%20catastali.bmml%26bm%3BCreazione%20Immobile%20-%20Dati%20catastali.bmml%2CCreazione%20Immobile%20-%20Ubicazione%26bm%3BCreazione%20Immobile%20-%20Ubicazione.bmml%26bm%3BCreazione%20Immobile%20-%20Ubicazione.bmml%26bm%3BCreazione%20Immobile%20-%20Ubicazione.bmml%2CCreazione%20Immobile%20-%20Descrizione%26bm%3BCreazione%20Immobile%20-%20Descrizione.bmml%26bm%3BCreazione%20Immobile%20-%20Descrizione.bmml%26bm%3BCreazione%20Immobile%20-%20Descrizione.bmml%2C%2CCreazione%20Immobile%20-%20Elenco%20Attivita%u0300%26bm%3BCreazione%20Immobile%20-%20Elenco%20Attivita%u0300.bmml%26bm%3BCreazione%20Immobile%20-%20Elenco%20Attivita%u0300.bmml%26bm%3BCreazione%20Immobile%20-%20Elenco%20Attivita%u0300.bmml%2CCreazione%20Immobile%20-%20Valutazione%26bm%3BCreazione%20Immobile%20-%20Valutazione.bmml%26bm%3BCreazione%20Immobile%20-%20Valutazione.bmml%26bm%3BCreazione%20Immobile%20-%20Valutazione.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22294%2C135%2C384%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Dati%2520catastali.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Dati%20catastali%22%20id%3D%2265%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22384%2C135%2C462%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Ubicazione.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Ubicazione%22%20id%3D%2265%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22462%2C135%2C544%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Descrizione.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Descrizione%22%20id%3D%2265%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22617%2C135%2C714%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Elenco%2520Attivita%25CC%2580.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Elenco%20Attivita%u0300%22%20id%3D%2265%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22714%2C135%2C795%2C162%22%20href%3D%22Creazione%2520Immobile%2520-%2520Valutazione.bmml%22%20alt%3D%22Creazione%20Immobile%20-%20Valutazione%22%20id%3D%2265%22/%3E</map>
+        <selectedIndex>3</selectedIndex>
+        <text>Dati%20catastali%2C%20Ubicazione%2C%20Descrizione%2C%20Data%20room%2C%20Elenco%20attivit%E0%2C%20Valutazione</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Button" x="636" y="395" w="-1" h="-1" measuredW="218" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CircledPlusIcon%7Cxsmall</icon>
+        <text>Aggiungi%20un%20file%20alla%20data%20room</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Title" x="290" y="85" w="367" h="-1" measuredW="284" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nuovo%20Immobile</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::ProgressBar" x="1144" y="96" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <scrollBarValue>50</scrollBarValue>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
