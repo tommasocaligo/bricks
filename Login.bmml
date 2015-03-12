@@ -1,0 +1,77 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1280" measuredH="720" mockupW="1280" mockupH="720">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1280" h="720" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Brick%0Ahttp%3A//brick.io%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="513" y="297" w="255" h="-1" measuredW="22" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>...</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="513" y="380" w="173" h="-1" measuredW="22" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>...</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="596" y="439" w="201" h="22" measuredW="201" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Ricordami%20su%20questo%20computer</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="514" y="273" w="66" h="-1" measuredW="66" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>User%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="515" y="355" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="513" y="437" w="67" h="26" measuredW="61" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Landing%26bm%3BLanding.bmml%26bm%3BLanding.bmml%26bm%3BLanding.bmml</href>
+        <text>Log%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="616" y="189" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DeliciousIcon%7Clarge</icon>
+        <text>Brick</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Link" x="784" y="301" w="-1" h="-1" measuredW="76" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>dimenticato%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="784" y="384" w="-1" h="-1" measuredW="76" measuredH="19" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>dimenticata%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="513" y="508" w="-1" h="-1" measuredW="97" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>crea%20un%20account</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="625" y="508" w="-1" h="-1" measuredW="143" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>non%20riesci%20ad%20accedere%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="692" y="377" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>check-square-o%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="727" y="383" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mostra</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
